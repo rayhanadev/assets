@@ -2,7 +2,7 @@
 
 Some of my branding and design assets for quick reference. Unless otherwise noted,
 all content in this repository is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-and you should follow the Brand Guidelines layed out below.
+and you should follow the Brand Guidelines laid out below.
 
 For more information on branding, visit [brand.furret.codes](https://brand.furret.codes).
 
