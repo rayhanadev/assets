@@ -27,8 +27,8 @@ You may not use my brand to signal partnership or endorsement with your brand wh
 it has not been discussed beforehand.
 
 Attributions to any of my materials or designs must be made in accordance
-with CC BY-NC-SA 4.0 and are preferred to be done as text adjecent the used mark.
-The preferred phraseology is "Made with contributions from RayhanADev".
+with CC BY-NC-SA 4.0 and are preferred to be done as text adjacent to the used
+mark. The preferred phraseology is "Made with contributions from RayhanADev".
 
 ### Logo and Other Marks
 
